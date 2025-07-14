@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="problema-resuelto.jpeg" alt="LiztechCode Banner" width="100%" />
+</p>
 
 <h1 align="center">⚡ Retos de Programación - Comunidad LiztechCode</h1>
 
