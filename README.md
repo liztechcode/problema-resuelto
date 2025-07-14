@@ -3,7 +3,7 @@
   <img src="problema-resuelto.jpeg" alt="LiztechCode Banner" width="100%" />
 </p>
 
-<h1 align="center">⚡ Retos de Programación - Comunidad LiztechCode</h1>
+<h1 align="center">⚡ Retos de Programación </h1>
 
 <p align="center">
   Este repositorio guarda todos los retos que publico en <strong>mi canal de Telegram</strong> 
@@ -42,7 +42,7 @@ git checkout -b nombre-de-tu-rama
 ```
 
 ### 3️⃣ Haz commit y push de tu solución
-- - Haz COMMIT con el mensaje de la solución git commit -m "#[NÚMERO-RETO] - [LENGUAJE-UTILIZADO]".
+- - Haz COMMIT con el mensaje de la solución git commit -m "#[NÚMERO-RETO] - [LENGUAJE-UTILIZADO(javascritp, c++, java, python,go..etc)]".
 
 ### 4️⃣ Envía un Pull Request
 
