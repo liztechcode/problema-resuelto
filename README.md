@@ -1,6 +1,6 @@
 
 
-<h1 align="center">⚡ Retos de Programación - Comunidad LiztechCode</h1>
+<h1 align="center">⚡ Retos de Programación </h1>
 
 <p align="center">
   Este repositorio guarda todos los retos que publico en <strong>mi canal de Telegram</strong> 
