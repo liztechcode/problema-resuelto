@@ -39,7 +39,7 @@ git checkout -b nombre-de-tu-rama
 ```
 
 ### 3️⃣ Haz commit y push de tu solución
-- - Haz COMMIT con el mensaje de la solución git commit -m "#[NÚMERO-RETO] - [LENGUAJE-UTILIZADO]".
+- - Haz COMMIT con el mensaje de la solución git commit -m "#[NÚMERO-RETO] - [LENGUAJE-UTILIZADO(javascritp, c++, java, python,go..etc)]".
 
 ### 4️⃣ Envía un Pull Request
 
