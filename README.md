@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/TU-BANNER.png" alt="LiztechCode Banner" width="100%" />
-</p>
+
 
 <h1 align="center">⚡ Retos de Programación - Comunidad LiztechCode</h1>
 
