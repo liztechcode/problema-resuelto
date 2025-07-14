@@ -53,4 +53,3 @@ git checkout -b nombre-de-tu-rama
 - Explica tu enfoque de manera clara y concisa
 - ¡Diviértete y aprende en el proceso! 🚀
 
----# problema-resuelto
