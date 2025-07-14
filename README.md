@@ -16,10 +16,10 @@
 
 ## 📚 Tabla de Retos
 
-| # | Nombre del reto | Soluciones |  video de apoyo |
-|---|------------------|------------|------------------|
-| 01 | [<img src="https://img.shields.io/badge/numeros%20aleatorios-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Numeros aleatorios">](https://t.me/problemaresueltoo/18) | [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Numeros aleatorios">](./fundamentos/vectores/Aleatorios.java) | |
-| 02 | [<img src="https://img.shields.io/badge/Calculadora%20de%20expresiones%20postfijas-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Calculadora de expresiones postfijas">](https://t.me/problemaresueltoo/30) | [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Calculadora de expresiones postfijas">](./estructuras-datos/pilas/ExpresionesPostfijas.java) | [<img src="https://img.youtube.com/vi/WvUdg41FnNY/hqdefault.jpg" width="100" />]( https://www.youtube.com/watch?v=WvUdg41FnNY) 
+| # | Nombre del reto | Soluciones | Tema| Video de apoyo |
+|---|------------------|------------|------------------|------------------|
+| 01 | [<img src="https://img.shields.io/badge/numeros%20aleatorios-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Numeros aleatorios">](https://t.me/problemaresueltoo/18) | [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Numeros aleatorios">](./fundamentos/vectores/Aleatorios.java) | Fundamentos|  |
+| 02 | [<img src="https://img.shields.io/badge/Calculadora%20de%20expresiones%20postfijas-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Calculadora de expresiones postfijas">](https://t.me/problemaresueltoo/30) | [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Calculadora de expresiones postfijas">](./estructuras-datos/pilas/ExpresionesPostfijas.java) | Estructuras de datos| [<img src="https://img.youtube.com/vi/WvUdg41FnNY/hqdefault.jpg" width="100" />]( https://www.youtube.com/watch?v=WvUdg41FnNY) 
 
 
 
