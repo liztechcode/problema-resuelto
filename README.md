@@ -19,10 +19,6 @@
 
   <h3>🔔 ¡Apoya este proyecto!</h3>
 
-  <p>
-    Si este repositorio te está ayudando a mejorar tu lógica y practicar programación:
-  </p>
-
   <ul style="list-style: none;">
     ⭐ <strong>Dale una estrella</strong> para que más personas lo descubran
     <br>
