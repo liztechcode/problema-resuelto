@@ -13,6 +13,36 @@
   <a href="https://t.me/LINK_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>  
 </p>
 
+<hr>
+
+<div align="center">
+
+  <h3>🔔 ¡Apoya este proyecto!</h3>
+
+  <p>
+    Si este repositorio te está ayudando a mejorar tu lógica y practicar programación:
+  </p>
+
+  <ul style="list-style: none;">
+    ⭐ <strong>Dale una estrella</strong> para que más personas lo descubran
+    <br>
+    🙌 <strong>Sígueme en GitHub</strong> para ver más proyectos educativos
+     <br>
+    💬 <strong>Comparte el canal de Telegram</strong>
+  </ul>
+
+  <p align="center">
+
+  <p align="center">
+  <a href="https://github.com/liztechcode"><img src="https://img.shields.io/github/followers/liztechcode?style=social" alt="Sígueme en GitHub"></a>
+  <a href="https://github.com/liztechcode/problema-resuelto"><img src="https://img.shields.io/github/stars/liztechcode/problema-resuelto?style=social" alt="Dale una estrella"></a>
+</p>
+
+</div>
+
+<hr>
+ 
+
 
 ## 📚 Tabla de Retos
 
