@@ -1,3 +1,6 @@
+#los lados del triangulo deben sumar lo mismo que el numero que se ingresa
+
+
 import random
 
 total = int(input("Ingrese el total deseado para cada suma (por ejemplo 28): "))
