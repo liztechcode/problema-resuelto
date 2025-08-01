@@ -13,13 +13,42 @@
   <a href="https://t.me/LINK_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>  
 </p>
 
+<hr>
+
+<div align="center">
+
+  <h3>🔔 ¡Apoya este proyecto!</h3>
+
+  <ul style="list-style: none;">
+    ⭐ <strong>Dale una estrella</strong> para que más personas lo descubran
+    <br>
+    🙌 <strong>Sígueme en GitHub</strong> para ver más proyectos educativos
+     <br>
+    💬 <strong>Comparte el canal de Telegram</strong>
+  </ul>
+
+  <p align="center">
+
+  <p align="center">
+  <a href="https://github.com/liztechcode"><img src="https://img.shields.io/github/followers/liztechcode?style=social" alt="Sígueme en GitHub"></a>
+  <a href="https://github.com/liztechcode/problema-resuelto"><img src="https://img.shields.io/github/stars/liztechcode/problema-resuelto?style=social" alt="Dale una estrella"></a>
+</p>
+
+</div>
+
+<hr>
+ 
+
 
 ## 📚 Tabla de Retos
 
-| # | Nombre del reto | Soluciones | Tema| Video de apoyo |
-|---|------------------|------------|------------------|------------------|
-| 01 | [<img src="https://img.shields.io/badge/numeros%20aleatorios-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Numeros aleatorios">](https://t.me/problemaresueltoo/18) | [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Numeros aleatorios">](./retos/vectores/Aleatorios.java) | Fundamentos|  |
-| 02 | [<img src="https://img.shields.io/badge/Calculadora%20de%20expresiones%20postfijas-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Calculadora de expresiones postfijas">](https://t.me/problemaresueltoo/30) | [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Calculadora de expresiones postfijas">](./retos/estructuras-datos/pilas/ExpresionesPostfijas.java) | Estructuras de datos| [<img src="https://img.youtube.com/vi/WvUdg41FnNY/hqdefault.jpg" width="100" />]( https://www.youtube.com/watch?v=WvUdg41FnNY) 
+
+| #  | Nombre del reto | Soluciones | Teoría 📚  | Video solución 🎥    |
+|----|-----------------|------------|------------|----------------------|
+| 01 | [<img src="https://img.shields.io/badge/numeros%20aleatorios-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Números aleatorios">](https://t.me/problemaresueltoo/18) | [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Código">](./retos/vectores/Aleatorios.java) || [<img src="https://img.youtube.com/vi/COHbI09cFHg/hqdefault.jpg" width="100" />](https://youtu.be/COHbI09cFHg) |
+| 02 | [<img src="https://img.shields.io/badge/Calculadora%20de%20expresiones%20postfijas-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Expresiones postfijas">](https://t.me/problemaresueltoo/30) | [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Código">](./retos/estructuras-datos/pilas/ExpresionesPostfijas.java) | [<img src="https://img.youtube.com/vi/WvUdg41FnNY/hqdefault.jpg" width="100" />](https://www.youtube.com/watch?v=WvUdg41FnNY)|  |
+| 03 | [<img src="https://img.shields.io/badge/Observa%20el%20triangulo-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Observa el triangulo">](https://t.me/problemaresueltoo/36) |  |  
+
 
 
 
