@@ -47,7 +47,7 @@
 |----|-----------------|------------|------------|----------------------|
 | 01 | [<img src="https://img.shields.io/badge/numeros%20aleatorios-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Números aleatorios">](https://t.me/problemaresueltoo/18) | [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Código">](./retos/vectores/Aleatorios.java) || [<img src="https://img.youtube.com/vi/COHbI09cFHg/hqdefault.jpg" width="100" />](https://youtu.be/COHbI09cFHg) |
 | 02 | [<img src="https://img.shields.io/badge/Calculadora%20de%20expresiones%20postfijas-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Expresiones postfijas">](https://t.me/problemaresueltoo/30) | [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Código">](./retos/estructuras-datos/pilas/ExpresionesPostfijas.java) | [<img src="https://img.youtube.com/vi/WvUdg41FnNY/hqdefault.jpg" width="100" />](https://www.youtube.com/watch?v=WvUdg41FnNY)|  |
-| 03 | [<img src="https://img.shields.io/badge/Observa%20el%20triangulo-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Observa el triangulo">](https://t.me/problemaresueltoo/36) |  |  
+| 03 | [<img src="https://img.shields.io/badge/Observa%20el%20triangulo-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Observa el triangulo">](https://t.me/problemaresueltoo/36) |  [<img src="https://img.shields.io/badge/%3C/%3E%20-2E3440?style=flat&logo=code&logoColor=white" alt="Código">](./retos/fundamentos/triangulo.py) |  
 
 
 
