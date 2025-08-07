@@ -10,7 +10,6 @@
   Puedes resolverlos en el lenguaje que prefieras y contribuir con tu solución.  
   ¡Aquí practicamos programación y entrenamos el pensamiento lógico! 💻💜
   <br>
-  <a href="https://t.me/LINK_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>  
 </p>
 
 <hr>
@@ -24,7 +23,7 @@
     <br>
     🙌 <strong>Sígueme en GitHub</strong> para ver más proyectos educativos
      <br>
-    💬 <strong>Comparte el canal de Telegram</strong>
+   
   </ul>
 
   <p align="center">
