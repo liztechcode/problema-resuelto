@@ -1,3 +1,5 @@
+
+//corre este codigo con: node retos/estructuras-datos/matrices/agentes_secretos.js en la consola
 const str = "OSELNKTEPT-ANUEEREE";
 const filas = str.length / 4;
 const columnas = 4;
