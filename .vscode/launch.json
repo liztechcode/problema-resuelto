@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DiccionarioPirata",
+            "request": "launch",
+            "mainClass": "DiccionarioPirata",
+            "projectName": "problemas-resueltos-programacion_72737482"
+        },
+        {
+            "type": "java",
+            "name": "AgentesSecretos",
+            "request": "launch",
+            "mainClass": "retos.estructurasDatos.matrices.AgentesSecretos",
+            "projectName": "problemas-resueltos-programacion_72737482"
+        },
+        {
+            "type": "java",
+            "name": "AgentesSecretos",
+            "request": "launch",
+            "mainClass": "AgentesSecretos",
+            "projectName": "problemas-resueltos-programacion_72737482"
+        },
+        {
+            "type": "java",
+            "name": "Aleatorios",
+            "request": "launch",
+            "mainClass": "Aleatorios",
+            "projectName": "problemas-resueltos-programacion_72737482"
+        },
+        {
+            "type": "java",
+            "name": "ExpresionesPostfijas",
+            "request": "launch",
+            "mainClass": "ExpresionesPostfijas",
+            "projectName": "problemas-resueltos-programacion_72737482"
+        }
+    ]
+}
